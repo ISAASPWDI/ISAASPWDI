@@ -1,9 +1,7 @@
 # 👋 ¡Hola! Soy Stevens Aliaga
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=FF6B6B,FFA500,FFD700,4ADE80,00D9FF,A78BFA,FF69B4&center=true&vCenter=true&width=1000&height=120&lines=Backend+Developer+%7C+Node.js+%2B+TypeScript;Full-Stack+Architect+%7C+NestJS+Expert;API+Specialist+%7C+Clean+Architecture;Building+Scalable+Systems+🚀)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=120&lines=Backend+Developer+%7C+Node.js+%2B+TypeScript" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
