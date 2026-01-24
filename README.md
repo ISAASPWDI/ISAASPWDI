@@ -26,7 +26,7 @@ Backend Developer con **+2 años de experiencia** especializado en arquitecturas
 ## 💼 Experiencia Profesional
 
 ### 🏢 Backend Developer en TECNOVEDADES WEB
-**Agosto 2024 - Presente**
+**Agosto 2024 - Agosto 2025**
 
 **Sistema Hotelero - Hotel Rosal**
 - ✨ Incrementé eficiencia operativa en **40%** con sistema completo de gestión hotelera
@@ -92,14 +92,14 @@ Backend Developer con **+2 años de experiencia** especializado en arquitecturas
 
 ## 🏆 Proyectos Destacados
 
-### 📚 [StudySync - Plataforma de Emparejamiento Académico](https://github.com/ISAASPWDI/studysync)
+### 📚 [StudySync - Plataforma de Emparejamiento Académico](https://github.com/ISAASPWDI/studysync-backend)
 Backend escalable con NestJS y microservicios + ML para recomendaciones
 - 🏗️ Arquitectura modular con DDD y SOLID
 - 🔐 OAuth2 (Google/GitHub) + JWT
 - ✅ Testing con Jest y SonarQube
 - 📊 MongoDB con Mongoose
 
-### 🛍️ [Clothing E-Commerce Platform](https://github.com/ISAASPWDI/clothing-ecommerce)
+### 🛍️ [Clothing E-Commerce Platform](https://github.com/ISAASPWDI/clothing_ecommerce_backend)
 Full-stack con GraphQL API y arquitectura escalable
 - ⚡ Reducción de overfetching en 50% con GraphQL
 - 🎨 Clean Architecture y DDD
@@ -107,7 +107,7 @@ Full-stack con GraphQL API y arquitectura escalable
 - 🔒 Autenticación JWT segura
 - 🗄️ MySQL con Prisma ORM
 
-### 🎓 [Educational Empowerment Platform](https://github.com/ISAASPWDI/educational-platform)
+### 🎓 [Educational Empowerment Platform](https://github.com/ISAASPWDI/escogebien-backend)
 Ecosistema educativo full-stack robusto
 - ☁️ Deployment en AWS EC2 con PM2 y NGINX
 - 🏗️ Clean Architecture + DDD
@@ -115,7 +115,7 @@ Ecosistema educativo full-stack robusto
 - 🐳 Dockerizado para portabilidad
 - ✅ Testing unitario con Jest
 
-### 🎓 [Graduation Management System](https://github.com/ISAASPWDI/graduation-system)
+### 🎓 [Graduation Management System](https://github.com/ISAASPWDI/graduated-app)
 Sistema completo con microservicios y tiempo real
 - 🔄 Arquitectura de microservicios
 - 💬 Chat en tiempo real con WebSockets
@@ -123,14 +123,14 @@ Sistema completo con microservicios y tiempo real
 - 🐳 Containerizado con Docker
 - ✅ TDD con Jest y SWC
 
-### 🏦 [Bank Application System](https://github.com/ISAASPWDI/bank-system)
+### 🏦 [Bank Application System](https://github.com/ISAASPWDI/bank-app-backend)
 Sistema bancario seguro con transacciones ACID
 - ☕ Spring Boot + microservicios Node.js
 - 💰 APIs REST para transferencias y pagos
 - 🔐 JWT con autorización por roles
 - 📧 Notificaciones y logging de auditoría
 
-### ⏰ [Attendance Tracking System](https://github.com/ISAASPWDI/attendance-system)
+### ⏰ [Attendance Tracking System](https://github.com/ISAASPWDI/attendance-app)
 Sistema empresarial de registro de asistencias
 - 🔐 Spring Security + JWT
 - 🏗️ Arquitectura MVC con JPA/Hibernate
