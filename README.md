@@ -1,10 +1,10 @@
 # 👋 ¡Hola! Soy Stevens Aliaga
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Backend%20Developer%20|%20Full-Stack%20Architect&fontSize=35&fontAlignY=35&fontColor=fff&animation=twinkling" />
+  <img src="./header.svg" alt="Header" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Node.js+%2B+TypeScript+Expert;NestJS+%7C+Express+%7C+Spring+Boot;Clean+Architecture+%7C+Microservices;Building+Scalable+Systems+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Node.js+%2B+TypeScript+%2B+NestJS;Clean+Architecture+%7C+Microservices;API+Specialist+%7C+Backend+Expert;Building+Scalable+Systems+🚀)](https://git.io/typing-svg)
 
 ## 🚀 Sobre mí
 
