@@ -1,10 +1,16 @@
 # 👋 ¡Hola! Soy Stevens Aliaga
 
 <div align="center">
-  <img src="./header.svg" alt="Header" />
-</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Node.js+%2B+TypeScript+%2B+NestJS;Clean+Architecture+%7C+Microservices;API+Specialist+%7C+Backend+Expert;Building+Scalable+Systems+🚀)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=60&lines=Backend+Developer+%7C+Node.js+%2B+TypeScript" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=4ADE80&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Architect+%7C+NestJS+Expert" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=60&lines=API+Specialist+%7C+Clean+Architecture" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=A78BFA&center=true&vCenter=true&width=1000&height=60&lines=Building+Scalable+Systems+🚀" />
+
+</div>
 
 ## 🚀 Sobre mí
 
