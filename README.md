@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=120&lines=Backend%20Developer%20%7C%20Java%20Spring%20Boot%20Node.js%20%2B%20TypeScript" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=150&lines=Backend%20Developer%20%7C%20Java%20Spring%20Boot%20Node.js%20%2B%20TypeScript" />
 
 
 
