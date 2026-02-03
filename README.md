@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=60&lines=Backend+Developer+%7C+Node.js+%2B+TypeScript" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=60&lines=Backend+Developer+%7C+Java+Spring Boot+Node.js+%2B+TypeScript" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=4ADE80&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Architect+%7C+NestJS+Expert" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=4ADE80&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Architect" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=60&lines=API+Specialist+%7C+Clean+Architecture" />
 
