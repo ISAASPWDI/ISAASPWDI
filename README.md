@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mí
 
-Backend Developer con **+2 años de experiencia** especializado en arquitecturas escalables con **Node.js, TypeScript, NestJS y Express**. Apasionado por construir sistemas robustos que resuelven problemas reales, aplicando **Clean Architecture, SOLID y patrones de diseño**.
+Backend Developer con **+2 años de experiencia** especializado en arquitecturas escalables con **Java, Spring Boot, Node.js, TypeScript, NestJS y Express**. Apasionado por construir sistemas robustos que resuelven problemas reales, aplicando **Clean Architecture, SOLID y patrones de diseño**.
 
 - 🌱 Aprendiendo constantemente sobre microservicios y cloud architecture
 - 💡 Mejorando eficiencia operativa en +40% mediante soluciones escalables
