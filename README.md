@@ -2,15 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=150&lines=Backend%20Developer%20%7C%20Java%20Spring%20Boot%20Node.js%20%2B%20TypeScript" />
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=4ADE80&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Architect" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=60&lines=API+Specialist+%7C+Clean+Architecture" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=A78BFA&center=true&vCenter=true&width=1000&height=60&lines=Building+Scalable+Systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1200&color=FF6B6B&center=true&vCenter=true&width=1100&height=120&lines=Backend%20Developer%20%7C%20Java%20Spring%20Boot;Node.js%20%2B%20TypeScript;API%20Specialist%20%7C%20Clean%20Architecture;Building%20Scalable%20Systems%20🚀" />
 
 </div>
 
