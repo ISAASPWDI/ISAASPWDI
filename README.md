@@ -2,9 +2,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Stevens Aliaga Arauco"/></picture>
 
-<a href="https://stevensaliaga.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
-<a href="https://www.linkedin.com/in/stevens-aliaga-arauco-05bb39226/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
-<a href="mailto:stivensaliaga@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email"/></picture></a>
+<a href="https://stevensaliaga.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1f6feb?style=flat-square&logoColor=ffffff" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/stevens-aliaga-arauco-05bb39226/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
+<a href="mailto:stivensaliaga@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email"/></a>
 
 </div>
 
@@ -18,8 +18,8 @@
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ISAASPWDI&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3"/><img src="https://github-readme-stats.vercel.app/api?username=ISAASPWDI&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328" width="47%" alt="GitHub statistics"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ISAASPWDI&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=e6edf3"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISAASPWDI&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=1f2328" width="47%" alt="Top languages"/></picture>
+<img src="https://img.shields.io/github/followers/ISAASPWDI?style=flat-square&label=followers&color=1f6feb&logo=github&logoColor=ffffff" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=ISAASPWDI&style=flat-square&color=1f6feb&label=profile+views" alt="Profile views"/>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ISAASPWDI&bg_color=00000000&color=58a6ff&line=58a6ff&point=e6edf3&area_color=58a6ff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=ISAASPWDI&bg_color=ffffff&color=0969da&line=0969da&point=1f2328&area_color=0969da&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
